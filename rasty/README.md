@@ -11,8 +11,9 @@
 
 
 
-## PULL REQ: https://github.com/Alaa-AbuIssa/resty/pull/1 
-## sandBox URL : https://codesandbox.io/s/frosty-knuth-0nup6 
+
+## PULL REQ: https://github.com/Alaa-AbuIssa/resty/pull/2
+## sandBox URL : https://codesandbox.io/s/frosty-knuth-0nup6
 
 ### UML 
 <img src="./images/class26.png" />
